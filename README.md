@@ -10,6 +10,7 @@ Most of what I make is practical stuff for my own workflow: cleaning up messy st
 - Python tools that do one job well
 - Gambling data, edges, and anything +EV
 - Simple web apps for quick workflows
+- Running a poker stable and building tools around it
 
 ## Stuff I've built
 
@@ -19,10 +20,12 @@ Most of what I make is practical stuff for my own workflow: cleaning up messy st
 - [statname-reformat](https://github.com/Thurpan/statname-reformat)  
   Small Flask app that turns pasted Statname summary text into a cleaner format. Built because copying, editing, and reformatting the same poker stats by hand is annoying.
 
-## Currently
+## What I'm working on
 
-- Learning more Python
-- Building tools for poker and gambling workflows
+- A Discord bot for my poker stable
+- A table-scanner
+- A preflop range viewer
+- A solver for Superbru
 - Interested in projects that make data easier to use for decision-making
 
 ## Find me
