@@ -23,7 +23,7 @@ Most of what I make is practical stuff for my own workflow: cleaning up messy st
 ## What I'm working on
 
 - A Discord bot for my poker stable
-- A table-scanner
+- Table Scanner - a website for tracking what games/tournaments are running live and online
 - A preflop range viewer
 - A solver for Superbru
 - Interested in projects that make data easier to use for decision-making
