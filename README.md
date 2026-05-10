@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Thurpan aka Euan McNicholas
-- 👀 I’m interested in poker and gambling
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any projcet that can enable +EV gambling
-- 📫 Reach me on discord "Euan#3803"
+# Hey, I'm Euan
 
-<!---
-Thurpan/Thurpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build small tools around poker, data, and +EV gambling.
+
+Most of what I make is practical stuff for my own workflow: cleaning up messy stats, automating boring formatting, or turning poker concepts into code so I can use them properly.
+
+## What I'm into
+
+- Poker strategy, solvers, and game theory
+- Python tools that do one job well
+- Gambling data, edges, and anything +EV
+- Simple web apps for quick workflows
+
+## Stuff I've built
+
+- [poker_isomorphisms](https://github.com/Thurpan/poker_isomorphisms)  
+  Python package for working with poker flop isomorphisms. It groups strategically equivalent flops and hands so you do not have to think about every suit permutation manually.
+
+- [statname-reformat](https://github.com/Thurpan/statname-reformat)  
+  Small Flask app that turns pasted Statname summary text into a cleaner format. Built because copying, editing, and reformatting the same poker stats by hand is annoying.
+
+## Currently
+
+- Learning more Python
+- Building tools for poker and gambling workflows
+- Interested in projects that make data easier to use for decision-making
+
+## Find me
+
+- GitHub: [@Thurpan](https://github.com/Thurpan)
+- PyPI: [euan_mcn](https://pypi.org/user/euan_mcn/)
+- Discord: `Euan#3803`
